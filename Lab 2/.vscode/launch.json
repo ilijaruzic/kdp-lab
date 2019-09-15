@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "rs.ac.bg.etf.kdp.ri160605.test.Test",
+            "projectName": "Lab 2_7690f0bb"
+        }
+    ]
+}

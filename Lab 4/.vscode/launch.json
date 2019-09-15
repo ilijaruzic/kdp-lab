@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RmiServer",
+            "request": "launch",
+            "mainClass": "rs.ac.bg.etf.kdp.ri160605.rmi.RmiServer",
+            "args": [
+                "192.168.1.105",
+                "4001"
+            ],
+            "vmArgs": "-Djava.security.policy=\"C:/Users/Ilija/Desktop/Lab 4/java.policy\"",
+            "projectName": "Lab 4_7690f0bd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestRmi",
+            "request": "launch",
+            "mainClass": "rs.ac.bg.etf.kdp.ri160605.test.TestRmi",
+            "args": [
+                "192.168.1.105",
+                "4001"
+            ],
+            "vmArgs": "-Djava.security.policy=\"C:/Users/Ilija/Desktop/Lab 4/java.policy\"",
+            "projectName": "Lab 4_7690f0bd"
+        }
+    ]
+}

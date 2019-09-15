@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Server",
+            "request": "launch",
+            "mainClass": "rs.ac.bg.etf.kdp.ri160605.net.Server",
+            "args": "4001",
+            "projectName": "Lab 3_7690f0bc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestNet",
+            "request": "launch",
+            "mainClass": "rs.ac.bg.etf.kdp.ri160605.test.TestNet",
+            "args": [
+				"192.168.1.105", 
+				"4001"
+			],
+            "projectName": "Lab 3_7690f0bc"
+        }
+    ]
+}

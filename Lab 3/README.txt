@@ -1,0 +1,1 @@
+U folderu .vscode, u okviru fajla launch.json izmeniti host i port po potrebi.
