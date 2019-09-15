@@ -1,1 +1,0 @@
-U folderu .vscode, u okviru fajla launch.json izmeniti host i port po potrebi, kao i aposlutnu putanju do java.policy fajla.
